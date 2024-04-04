@@ -1,0 +1,1 @@
+x=msgbox("your pc has virus", Button+Icon, "Error [this is not a real virus this is fake")
